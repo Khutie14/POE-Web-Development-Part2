@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>ProValue — POE Website</title>
+  <!-- Link external stylesheet -->
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <!-- Header -->
+  <header class="site-header">
+    <div class="container">
+      <h1 class="logo">ProValue</h1>
+      <nav class="main-nav" aria-label="Main navigation">
+        <ul class="nav-menu">
+          <li><a href="#">Home</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#services">Services</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero with responsive image using <picture> -->
+  <main>
+    <section class="hero">
+      <picture>
+        <source srcset="images/banner-large.jpg" media="(min-width:1024px)">
+        <source srcset="images/banner-medium.jpg" media="(min-width:600px)">
+        <img src="images/banner-small.jpg" alt="ProValue banner showing logistics services">
+      </picture>
+      <div class="hero-copy container">
+        <h2>Supply Chain & Logistics Made Simple</h2>
+        <p>Professional services for warehousing, transport and garden maintenance.</p>
+        <a class="btn primary" href="#services">Learn More</a>
+      </div>
+    </section>
+
+    <!-- About -->
+    <section id="about" class="container">
+      <h2>About Us</h2>
+      <p>Short description of the project and objectives for the POE assignment.</p>
+    </section>
+
+    <!-- Services cards -->
+    <section id="services" class="container services-grid">
+      <!-- Card 1 -->
+      <article class="card">
+        <h3>Warehousing</h3>
+        <p>Secure and scalable storage solutions.</p>
+        <button class="btn">Read More</button>
+      </article>
+
+      <!-- Card 2 -->
+      <article class="card">
+        <h3>Transport</h3>
+        <p>Reliable door-to-door logistics.</p>
+        <button class="btn">Read More</button>
+      </article>
+
+      <!-- Card 3 -->
+      <article class="card">
+        <h3>Garden Maintenance</h3>
+        <p>Professional outdoor and garden services.</p>
+        <button class="btn">Add to Cart</button>
+      </article>
+    </section>
+
+    <!-- Contact placeholder (no JS required for Part 2) -->
+    <section id="contact" class="container">
+      <h2>Contact</h2>
+      <p>Placeholder contact info. Add form in Part 3 if required.</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>&copy; 2025 ProValue Services. Designed for WEDE5020 POE.</p>
+    </div>
+  </footer>
+</body>
+</html>
