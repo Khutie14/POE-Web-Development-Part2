@@ -78,6 +78,57 @@ body {
 /* Footer */
 .site-footer { background: var(--dark-blue); color: white; padding: 1rem 0; text-align: center; }
 
+/* ========== Responsive Design ========== */
+
+/* Tablet (max-width: 768px) */
+@media (max-width: 768px) {
+  .service-cards {
+    grid-template-columns: repeat(2, 1fr); /* 2 columns instead of 3 */
+  }
+
+  .hero h1 {
+    font-size: 2rem;
+  }
+
+  .hero p {
+    font-size: 1rem;
+  }
+}
+
+/* Mobile (max-width: 480px) */
+@media (max-width: 480px) {
+  .service-cards {
+    grid-template-columns: 1fr; /* single column */
+  }
+
+  header nav {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  header ul {
+    flex-direction: column;
+    margin-top: 10px;
+  }
+
+  .hero {
+    padding: 60px 15px;
+  }
+
+  .hero h1 {
+    font-size: 1.5rem;
+  }
+
+  .hero p {
+    font-size: 0.9rem;
+  }
+
+  .btn-primary {
+    padding: 10px 20px;
+    font-size: 0.9rem;
+  }
+}
+
 /* ===========================
    Responsive breakpoints
    =========================== */
