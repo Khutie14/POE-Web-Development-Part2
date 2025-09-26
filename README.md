@@ -10,4 +10,4 @@
 - ✔ Lighthouse audit run; addressed major accessibility issues
 
 
-https://github.com/Khutie14/POE-Web-Development-Part2/blob/main/Desktop%20screenshot.png?raw=true
+![image alt](https://github.com/Khutie14/POE-Web-Development-Part2/blob/main/Desktop%20screenshot.png?raw=true)
