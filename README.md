@@ -14,6 +14,7 @@
 This project demonstrates the development of a responsive website as part of my Portfolio of Evidence (POE).
 It includes semantic HTML, CSS styling, responsive images, and GitHub version control.
 📷 Screenshots (Responsive Views)
+
 🖥️ Desktop View
 ![image alt](https://github.com/Khutie14/POE-Web-Development-Part2/blob/main/Desktop%20screenshot.png?raw=true)
 📱 Mobile View
@@ -56,6 +57,7 @@ General Improvements
 Cleaned up file structure and ensured all assets (HTML, CSS, and images) are correctly linked.
 
 📚 References
+
 Duckett, J. (2014). HTML & CSS: Design and Build Websites. 1st ed. John Wiley & Sons.
 
 MDN Web Docs. (2024). Responsive images – Learn web development | MDN. [online] Available at: https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images [Accessed 25 Sept. 2025].
