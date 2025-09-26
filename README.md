@@ -8,6 +8,7 @@
 - ✔ CSS validated with W3C CSS Validator (no errors)
 - ✔ Basic accessibility checks: alt text, keyboard focus, logical headings
 - ✔ Lighthouse audit run; addressed major accessibility issues
+  
 🌐 POE Web Development Project
 📖 Project Overview
 This project demonstrates the development of a responsive website as part of my Portfolio of Evidence (POE).
@@ -56,6 +57,9 @@ Cleaned up file structure and ensured all assets (HTML, CSS, and images) are cor
 
 📚 References
 Duckett, J. (2014). HTML & CSS: Design and Build Websites. 1st ed. John Wiley & Sons.
+
 MDN Web Docs. (2024). Responsive images – Learn web development | MDN. [online] Available at: https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images [Accessed 25 Sept. 2025].
+
 W3Schools. (2024). CSS Media Queries. [online] Available at: https://www.w3schools.com/css/css_rwd_mediaqueries.asp [Accessed 25 Sept. 2025].
+
 GitHub Docs. (2024). About README files. [online] Available at: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes [Accessed 25 Sept. 2025].
