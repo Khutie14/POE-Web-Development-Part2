@@ -14,3 +14,5 @@
 
 
 ![image alt](https://github.com/Khutie14/POE-Web-Development-Part2/blob/main/Mobile%20screenshot.png?raw=true)
+
+![image alt](https://github.com/Khutie14/POE-Web-Development-Part2/blob/main/Tablet%20screenshot.png?raw=true)
